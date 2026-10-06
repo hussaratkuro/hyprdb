@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=hyprdb
+Comment=MySQL / MariaDB / PostgreSQL client (GUI)
+Exec=__HOME__/.local/bin/hyprdb
+TryExec=__HOME__/.local/bin/hyprdb
+Icon=__HOME__/.local/share/icons/hyprdb/hyprdb.png
+Terminal=false
+Categories=Development;Database;
+StartupNotify=true
+StartupWMClass=hyprdb
